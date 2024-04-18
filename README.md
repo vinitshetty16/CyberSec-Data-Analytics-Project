@@ -1,4 +1,5 @@
-# CyberSec-Data-Analytics-Project
+# Machine Learning Classification Models for Anomaly Detection in Network Traffic
+
 This project focuses on constructing multi-class machine learning-based classification models for anomaly detection in network traffic. The goal is to identify various network traffic types by leveraging two ideal datasets for anomaly detection.
 
 ## Processes Involved
